@@ -71,6 +71,6 @@ For example, if you don’t want your form to be submittable if the dropdown men
 
 ## Contact
 
-Coded by @emikode - feel free to contact me!
+Coded by @emikodes - feel free to contact me!
 
 ---
